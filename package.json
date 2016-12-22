@@ -1,0 +1,26 @@
+{
+  "name": "dreamcatcher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/dreamcatcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/dreamcatcher/issues"
+  },
+  "homepage": "https://github.com/antirek/dreamcatcher",
+  "dependencies": {
+    "asterisk-manager": "^0.1.15",
+    "config": "^1.24.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.7.4",
+    "tracer": "^0.8.7"
+  }
+}
