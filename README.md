@@ -20,3 +20,5 @@ catch asterisk UserEvents and store them to MongoDB
 see ./config
 
 use npm [config](https://www.npmjs.com/package/config)
+
+> export NODE_ENV=config
